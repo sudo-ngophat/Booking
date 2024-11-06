@@ -1,0 +1,11 @@
+E:\Test\Test_Models\bin\Debug\net8.0\Test_Models.deps.json
+E:\Test\Test_Models\bin\Debug\net8.0\Test_Models.dll
+E:\Test\Test_Models\bin\Debug\net8.0\Test_Models.pdb
+E:\Test\Test_Models\obj\Debug\net8.0\Test_Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Test\Test_Models\obj\Debug\net8.0\Test_Models.AssemblyInfoInputs.cache
+E:\Test\Test_Models\obj\Debug\net8.0\Test_Models.AssemblyInfo.cs
+E:\Test\Test_Models\obj\Debug\net8.0\Test_Models.csproj.CoreCompileInputs.cache
+E:\Test\Test_Models\obj\Debug\net8.0\Test_Models.dll
+E:\Test\Test_Models\obj\Debug\net8.0\refint\Test_Models.dll
+E:\Test\Test_Models\obj\Debug\net8.0\Test_Models.pdb
+E:\Test\Test_Models\obj\Debug\net8.0\ref\Test_Models.dll

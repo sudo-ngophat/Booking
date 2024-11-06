@@ -1,0 +1,49 @@
+﻿@if (TempData["success"] != null)
+{
+    @if (TempData["success"] != null)
+    {
+        <h2 id="success-message"> @TempData["success"]</h2>
+    }
+
+    @if (TempData["error"] != null)
+    {
+        <h2 id="error-message"> @TempData["error"]</h2>
+    }
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+           
+            $('#success-message, #error-message').fadeIn(1000).delay(3000).fadeOut(1000);
+
+            
+            $('#success-message, #error-message').click(function () {
+                $(this).css('transform', 'scale(1.1)').delay(200).css('transform', 'scale(1)');
+            });
+        });
+    </script>
+
+  
+}
+@if (TempData["error"]== null)
+{
+    <h2>@TempData["error"]</h2>
+
+}
+
+
+<style>
+    #success-message, #error-message {
+        display: none;
+        cursor: pointer;
+        transition: transform 0.3s ease;
+    }
+
+    #success-message {
+        color: green;
+    }
+
+    #error-message {
+        color: red;
+    }
+</style>

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97BBE4-46F7-4ECC-A6F4-DE0E5376C2FB}|Test\\Test.csproj|e:\\test\\test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB97BBE4-46F7-4ECC-A6F4-DE0E5376C2FB}|Test\\Test.csproj|solutionrelative:test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABA3705-4588-47D6-94EC-C4DB2EEF613C}|Test_Models\\Test_Models.csproj|e:\\test\\test_models\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ABA3705-4588-47D6-94EC-C4DB2EEF613C}|Test_Models\\Test_Models.csproj|solutionrelative:test_models\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97BBE4-46F7-4ECC-A6F4-DE0E5376C2FB}|Test\\Test.csproj|e:\\test\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB97BBE4-46F7-4ECC-A6F4-DE0E5376C2FB}|Test\\Test.csproj|solutionrelative:test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABA3705-4588-47D6-94EC-C4DB2EEF613C}|Test_Models\\Test_Models.csproj|e:\\test\\test_models\\test_models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5ABA3705-4588-47D6-94EC-C4DB2EEF613C}|Test_Models\\Test_Models.csproj|solutionrelative:test_models\\test_models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81989AA2-785F-413C-B7E1-955E36DA5DE6}|Test_DataAccess\\Test_DataAccess.csproj|e:\\test\\test_dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81989AA2-785F-413C-B7E1-955E36DA5DE6}|Test_DataAccess\\Test_DataAccess.csproj|solutionrelative:test_dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Test\\Test\\appsettings.json",
+              "RelativeDocumentMoniker": "Test\\appsettings.json",
+              "ToolTip": "E:\\Test\\Test\\appsettings.json",
+              "RelativeToolTip": "Test\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-27T14:00:13.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test.csproj",
+              "DocumentMoniker": "E:\\Test\\Test\\Test.csproj",
+              "RelativeDocumentMoniker": "Test\\Test.csproj",
+              "ToolTip": "E:\\Test\\Test\\Test.csproj",
+              "RelativeToolTip": "Test\\Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T13:59:27.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "E:\\Test\\Test_Models\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "Test_Models\\Models\\Categories.cs",
+              "ToolTip": "E:\\Test\\Test_Models\\Models\\Categories.cs",
+              "RelativeToolTip": "Test_Models\\Models\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:58:52.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test_Models.csproj",
+              "DocumentMoniker": "E:\\Test\\Test_Models\\Test_Models.csproj",
+              "RelativeDocumentMoniker": "Test_Models\\Test_Models.csproj",
+              "ToolTip": "E:\\Test\\Test_Models\\Test_Models.csproj",
+              "RelativeToolTip": "Test_Models\\Test_Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T13:58:42.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Test\\Test_DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Test_DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Test\\Test_DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Test_DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:51:12.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

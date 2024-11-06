@@ -1,0 +1,5 @@
+E:\Test\Test_DataAccess\obj\Debug\net8.0\Test_DataAccess.csproj.AssemblyReference.cache
+E:\Test\Test_DataAccess\obj\Debug\net8.0\Test_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Test\Test_DataAccess\obj\Debug\net8.0\Test_DataAccess.AssemblyInfoInputs.cache
+E:\Test\Test_DataAccess\obj\Debug\net8.0\Test_DataAccess.AssemblyInfo.cs
+E:\Test\Test_DataAccess\obj\Debug\net8.0\Test_DataAccess.csproj.CoreCompileInputs.cache
